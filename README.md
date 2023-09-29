@@ -1,1 +1,1 @@
-# Cyber-Bullying-Detection-System-Using-Python-
+skill and job recommender application
